@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 🎓 Graduated from **Comsats University, Islamabad**  
-💡 Skilled in **UI/UX Design, Web Development, React Native Mobile Apps Development, Game Designer, AI Projects**  
+💡 Skilled in **UI/UX Designer, Web Development, React Native Mobile Apps Development, Game Designer, AI Projects**  
 🎨 Experienced with **Design Tools (Figma, Canva)**  
 📝 Can create **Documentation & UML Diagrams**  
 🌱 Exploring **AI + Modern Tech** to build impactful digital solutions  
