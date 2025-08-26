@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 🎓 Graduated from **Comsats University, Islamabad**  
-💡 Skilled in **UI/UX Design, Web Development, Game Development, AI Projects, React Native Mobile Apps**  
+💡 Skilled in **UI/UX Design, Game Designer, AI Projects, Mobile Development, Web Development,**  
 🎨 Experienced with **Design Tools**  
 📝 Can create **Documentation & UML Diagrams**  
 🌱 Exploring **AI + Modern Tech** to build impactful digital solutions  
@@ -41,8 +41,6 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-aftab-1b76b027a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-
 
 ---
 
