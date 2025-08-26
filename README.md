@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fatima Aftab  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Mobile+App+Developer;Game+Developer;AI+Enthusiast;UI%2FUX+Designer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Mobile+App+Developer;Game+Designer;AI+Enthusiast;UI%2FUX+Designer)](https://git.io/typing-svg)  
 
 ---
 
