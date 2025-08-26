@@ -1,12 +1,14 @@
 # Hi 👋, I'm Fatima Aftab  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Mobile+App+Developer;Game+Designer;AI/ML;UI%2FUX+Designer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Mobile+App+Developer;Game+Developer;AI+Enthusiast;UI%2FUX+Designer)](https://git.io/typing-svg)  
 
 ---
 
 ## 🚀 About Me  
 🎓 Graduated from **Comsats University, Islamabad**  
-💡 Skilled in **UI/UX Design, Web Development, Game Designer, AI Projects, React Native Mobile Apps**  
+💡 Skilled in **UI/UX Design, Web Development, Game Development, AI Projects, React Native Mobile Apps**  
+🎨 Experienced with **Design Tools**  
+📝 Can create **Documentation & UML Diagrams**  
 🌱 Exploring **AI + Modern Tech** to build impactful digital solutions  
 
 ---
@@ -23,11 +25,13 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+![Documentation](https://img.shields.io/badge/-Documentation-4CAF50?style=flat&logo=readthedocs&logoColor=fff)
+![UML](https://img.shields.io/badge/-UML%20Diagrams-FF6F00?style=flat&logo=graphviz&logoColor=fff)
 
 ---
 
 ## 📊 GitHub Stats  
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaAftab&show_icons=true&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FatimaAftab&theme=tokyonight)  
 
@@ -36,9 +40,9 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/fatima-aftab-1b76b027a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-aftab-1b76b027a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/FatimaAftab)  
+
 
 ---
 
@@ -46,5 +50,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=FatimaAftab&color=blueviolet&style=flat-square)  
 
 ---
-
-⭐️ From [FatimaAftab](https://github.com/FatimaAftab)
