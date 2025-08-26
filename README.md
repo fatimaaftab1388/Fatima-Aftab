@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 🎓 Graduated from **Comsats University, Islamabad**  
-💡 Skilled in **UI/UX Designer, Web Development, React Native Mobile Apps Development, Game Designer, AI Projects**  
+💡 Skilled in **UI/UX Design, Web Development, Mobile Apps Development, Game Design, AI Projects**  
 🎨 Experienced with **Design Tools (Figma, Canva)**  
 📝 Can create **Documentation & UML Diagrams**  
 🌱 Exploring **AI + Modern Tech** to build impactful digital solutions  
@@ -35,17 +35,17 @@
 ---
 
 ## 🚀 Services I Offer  
-✅ UI/UX Design
-✅ Documentation  
-✅ UML Diagrams 
-✅ Complete Frontend Development  
-✅ Custom Website Development  
-✅ Figma to Website Conversion  
-✅ Responsive Mobile-First Design   
-✅ E-commerce Functionality  
-✅ Logo Design
-✅ Product Design
-✅ Prototypes  
+✅ UI/UX Design  
+✅ Documentation    
+✅ UML Diagrams   
+✅ Complete Frontend Development   
+✅ Custom Website Development   
+✅ Figma to Website Conversion   
+✅ Responsive Mobile-First Design    
+✅ E-commerce Functionality   
+✅ Logo Design  
+✅ Product Design  
+✅ Prototypes    
 
 ---
 
