@@ -66,7 +66,6 @@
 ---
 
 ## 📊 My GitHub Stats  
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaAftab&show_icons=true&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FatimaAftab&theme=tokyonight)  
 
